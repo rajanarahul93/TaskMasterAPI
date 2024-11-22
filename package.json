@@ -1,22 +1,22 @@
 {
-  "name": "airtribe-task-manager-api",
-  "version": "1.0.2",
-  "description": "RESTful API for a simple task manager application",
+  "name": "task-master-api",
+  "version": "1.0.0",
+  "description": "A RESTful API to manage tasks with CRUD operations, sorting, and filtering options",
   "main": "src/app.js",
   "scripts": {
     "start": "nodemon src/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chinmaykunkikar/task-manager-api.git"
+    "url": "git+https://github.com/rajanarahul93/TaskMasterAPI.git"
   },
-  "author": "Chinmay Kunkikar",
-  "license": "ISC",
+  "author": "Rajan Rahul",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chinmaykunkikar/task-manager-api/issues"
+    "url": "https://github.com/rajanarahul93/TaskMasterAPI/issues"
   },
-  "homepage": "https://github.com/chinmaykunkikar/task-manager-api#readme",
+  "homepage": "https://github.com/rajanarahul93/TaskMasterAPI#readme",
   "dependencies": {
     "ajv": "^8.12.0",
     "body-parser": "^1.20.2",
